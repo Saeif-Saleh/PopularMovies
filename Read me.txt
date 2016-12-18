@@ -1,0 +1,2 @@
+You can put the moviedb key in the constant called MovieDB_KEY which exists in
+the mainactivity class.

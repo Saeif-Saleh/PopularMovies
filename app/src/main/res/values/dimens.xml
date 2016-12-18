@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="detiledTitleTextSize">32dp</dimen>
+    <dimen name="releaseDate">24dp</dimen>
+    <dimen name="synopsisTextSize">16dp</dimen>
+</resources>
